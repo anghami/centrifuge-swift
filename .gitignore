@@ -40,3 +40,5 @@ Carthage/Build
 # Pods/
 
 Example/Podfile.lock
+Carthage/
+SwiftCentrifuge.xcodeproj/project.xcworkspace/
